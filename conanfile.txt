@@ -1,0 +1,7 @@
+[requires]
+yaml-cpp/0.6.2@bincrafters/stable
+
+[generators]
+cmake
+
+[options]

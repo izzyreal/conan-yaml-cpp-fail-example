@@ -1,0 +1,5 @@
+datasource:
+    mysql:
+        url: localhost
+        user: izmar
+        password: foobar
